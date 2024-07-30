@@ -1,1 +1,2 @@
-# Project-Covid-19-
+# Project-Covid-19
+This project uses datasets from kaggle.
